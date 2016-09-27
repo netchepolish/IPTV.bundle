@@ -11,7 +11,7 @@
 	<key>PlexFrameworkFlags</key>
     <array>
         <!-- Uncomment following line to play RTMP streams on newer clients, but be warned, plugin will become incompatible with most older clients. Also enable Use Real RTMP in Preferences. -->
-        <!--<string>UseRealRTMP</string>-->
+        <string>UseRealRTMP</string>
     </array>
 </dict>
 </plist>
